@@ -1,0 +1,116 @@
+Advanced Sony Video Kits Quiz — Aiken Format
+=============================================
+
+MC:: What type of sensor does the Sony FX30 use?
+~Full-frame BSI CMOS
+~Micro Four Thirds CMOS
+*~APS-C BSI CMOS
+~Medium format CCD
+
+MC:: What is the maximum resolution and frame rate the Sony FX30 can record?
+~1080P at 240p
+~4K at 60p
+*~UHD 4K at up to 120p
+~6K at 30p
+
+MC:: What does the "Iris" button on the top of the Sony FX30 control?
+~ISO sensitivity
+*~Aperture (the hole size in the lens)
+~Shutter speed
+~White balance
+
+MC:: When mounting the Sennheiser MKE 600 shotgun microphone, which XLR input is typically recommended and why?
+~Input 2, because it provides a stronger signal
+~Input 3, because it is closest to the microphone
+*~Input 1, because it supplies phantom power to the microphone
+~Any input, because they are all identical
+
+MC:: What does the Zebra display feature indicate on the Sony FX30?
+~The subject is out of focus
+*~The highlighted area is at approximately 70% exposure, near overexposure
+~The audio levels are too high
+~The battery is running low
+
+MC:: What does the Peaking feature help the camera operator determine?
+~Whether audio levels are acceptable
+~Whether the battery needs charging
+~Whether the white balance is correct
+*~Whether the image is in focus by highlighting pixel edges
+
+MC:: What is the correct procedure for mounting a lens on the Sony FX30's E-Mount?
+~Match the red dots, insert the lens, turn clockwise until locked
+*~Match the white index dots, insert the lens, turn counterclockwise until locked
+~Align the arrows, push straight in until it clicks
+~Match the black dots, insert the lens, turn clockwise until locked
+
+MC:: What is the primary risk when changing lenses on the Sony FX30?
+~Scratching the lens glass
+~Losing the lens cap
+*~Allowing dust to enter the camera and land on the sensor
+~Damaging the lens mount
+
+MC:: What is the key advantage of a prime lens over a zoom lens?
+~Prime lenses can zoom further
+~Prime lenses are always cheaper
+*~Prime lenses typically have a larger maximum aperture (faster lens) but cannot change focal lengths
+~Prime lenses produce more video distortion
+
+MC:: What are "T-stops" used to measure on cinema prime lenses?
+~The temperature resistance of the lens glass
+~The total zoom range of the lens
+*~How much light actually passes through the lens opening and reaches the sensor
+~The thread size for attaching filters
+
+MC:: What does a UV filter attached to the front of a lens primarily do?
+~Adds a warm color cast to footage
+~Converts the lens to manual focus
+*~Blocks UV light, removes blue cast in bright conditions, and protects the lens from damage
+~Reduces the maximum aperture by one stop
+
+MC:: What is the purpose of the Focus Magnification button (labeled "5") on the back of the Sony FX30?
+~To record at 5x digital zoom permanently
+~To switch between video and photo mode
+*~To digitally zoom in on the image so you can confirm focus, especially with manual lenses
+~To access the camera's fifth custom function menu
+
+MC:: According to the guide, what is the recommended ISO approach while shooting video?
+~Always shoot at ISO 3200 for best dynamic range
+~Set ISO to maximum to avoid underexposure
+*~Use the lowest ISO number possible while still correctly exposing the image
+~Keep ISO fixed at 800 regardless of lighting conditions
+
+MC:: When assembling the handle on the Sony FX30, what connects the handle to the camera body?
+~A locking pin and safety clip
+~Two thumb screws on either side
+*~A hot shoe slide-on connection plus a screw that tightens snugly
+~A proprietary magnetic locking system
+
+MC:: What is the purpose of the Handle Audio toggle switch on the left side of the camera?
+~It adjusts the volume of the headphone output
+~It enables Bluetooth wireless audio
+*~It switches the camera between using the body's built-in microphone and the XLR handle audio
+~It activates noise cancellation for the shotgun microphone
+
+TF:: The Sony FX30 uses the same lens mount system as Nikon cameras.
+~True
+*~False
+
+TF:: When shooting video at 24 frames per second, the 180° shutter rule means your shutter speed should be set to 1/50th of a second.
+*~True
+~False
+
+MT:: Match each Sony FX30 physical button or control to its correct function.
+~Iris Wheel => Changes the aperture value while in manual video mode
+~ISO Toggle Button => Activates the ISO adjustment so the scroll wheel can change sensitivity
+~Focus Magnification Button => Digitally zooms in to verify sharpness, especially with manual lenses
+~Handle Audio Toggle => Switches audio source between the camera body and the XLR audio handle
+
+MT:: Match each lens or accessory to its correct description.
+~Tamron 20-40mm f/2.8 Di III VXD => The zoom lens included with the Sony FX30 Video Kit, maintaining f/2.8 at all focal lengths
+~Sennheiser MKE 600 => The condenser shotgun microphone included in the kit that requires phantom power
+~UV Filter => Screws onto the front of the lens to block ultraviolet light and protect the glass
+~Manfrotto MVH500AH => The fluid video tripod system available as optional equipment with the video kits
+
+ESSAY:: Explain the 180° shutter rule as it applies to the Sony FX30. What is the historical origin of this rule, what shutter speed does it require when shooting at 24p, and what visual effect occurs when you violate the rule by using a much faster or much slower shutter speed?
+
+ESSAY:: You are preparing to shoot an interview using the Sony FX30 Video Kit. Walk through the complete setup process from unboxing the kit to pressing the record button. Include how to assemble the handle, connect the microphone, insert the battery and SD card, and configure the three exposure triangle settings for an interview shot.
