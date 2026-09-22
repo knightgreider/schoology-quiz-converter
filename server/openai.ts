@@ -1,6 +1,11 @@
 import OpenAI from "openai";
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+function getOpenAI() {
+  if (!process.env.OPENAI_API_KEY) {
+    throw new Error("AI features require OPENAI_API_KEY to be set.");
+  }
+  return new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+}
 
 export async function generateQuestionsFromText(
   extractedText: string,
@@ -12,17 +17,16 @@ export async function generateQuestionsFromText(
   }
 ): Promise<string> {
   const { questionCount, questionTypes, difficulty, subject } = options;
-  
-  // Create a comprehensive prompt for question generation
+
   const typeDescriptions = {
     MC: "Multiple Choice questions with 4 options (mark correct with *~)",
     TF: "True/False questions",
-    ES: "Essay questions requiring written responses", 
+    ES: "Essay questions requiring written responses",
     MT: "Matching questions using => format"
   };
-  
+
   const selectedTypes = questionTypes.map(type => typeDescriptions[type as keyof typeof typeDescriptions]).join(", ");
-  
+
   const prompt = `You are an expert educator creating quiz questions from presentation content. 
 
 Source Material:
@@ -66,7 +70,7 @@ CRITICAL:
 Generate the questions now:`;
 
   try {
-    const response = await openai.chat.completions.create({
+    const response = await getOpenAI().chat.completions.create({
       model: "gpt-4o",
       messages: [{ role: "user", content: prompt }],
       temperature: 0.7,
